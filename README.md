@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Bruno Cavitchoni</h1>
-<h3>Atuo como Analista de Dados em um coworking de consultórios voltado para profissionais da área da saúde.</h3>
+<h3>Atuo como Analista de Dados em uma empresa de corte e gravação a laser.</h3>
 <h3>Utilizo técnicas estatísticas e de inteligência de negócios para gerar insights valiosos, com foco na visualização de dados no Excel, relacionados ao aluguel dos consultórios e receitas financeiras.</h3>
 
 <h3>Tenho conhecimento em SQL, Python, Excel e Power BI, e estou em constante aprimoramento através de uma formação em dados, com o objetivo de fortalecer minha atuação como Analista de BI.</h3>
